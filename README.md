@@ -1,7 +1,5 @@
 # Project title and description
 Git hub profile finder, data pulled from Github API using async/await. Built as a project as part of "Modern javaScript from the beginning" course.
-## Motivation
-Asynchronous JS and API practice was my main motivation here, wanted to undestand concepts of async/await better and have more fun with accessing APIs.
 ## Build status
 Project is finished and that's the final version.
 ## Tech/framework used
